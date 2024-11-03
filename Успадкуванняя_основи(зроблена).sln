@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Успадкуванняя_основи", "Успадкуванняя_основи\Успадкуванняя_основи.csproj", "{7A9A01D1-AE14-41D5-82C1-D03A18C481BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9A01D1-AE14-41D5-82C1-D03A18C481BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9A01D1-AE14-41D5-82C1-D03A18C481BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9A01D1-AE14-41D5-82C1-D03A18C481BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9A01D1-AE14-41D5-82C1-D03A18C481BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74021807-7D03-45FB-9C39-CB51E6E466A2}
+	EndGlobalSection
+EndGlobal
